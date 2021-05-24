@@ -1,0 +1,6 @@
+framework module SVPinCodeView {
+  umbrella header "SVPinCodeView-umbrella.h"
+
+  export *
+  module * { export * }
+}
